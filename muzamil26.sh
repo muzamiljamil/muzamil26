@@ -290,7 +290,7 @@ banner() {
 
 		${ORANGE}      |_|                ${RED}Version : 5.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by muzamiljamil (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by muzamiljamil Your Dad muzamilt)${WHITE}
 
 	EOF
 
@@ -556,7 +556,7 @@ about() {
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
 
-								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1 ${RESETBG}
+								  DarkSecDevelopers,Muzamil,1RaY-1 ${RESETBG}
 
 		${RED}Warning:${WHITE}
 
