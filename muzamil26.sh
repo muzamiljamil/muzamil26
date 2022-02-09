@@ -288,9 +288,9 @@ banner() {
 
 		${ORANGE}      | |                                
 
-		${ORANGE}      |_|                ${RED}Version : 5.2
+		${ORANGE}      |_|                ${WHITE}Version : 5.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by muzamiljamil Your Dad muzamilt)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by muzamiljamil (Your Dad muzamilt)${WHITE}
 
 	EOF
 
